@@ -1,1 +1,0 @@
-https://zone01normandie.org/git/cmorgan/GraphQL.git
