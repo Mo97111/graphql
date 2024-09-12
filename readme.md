@@ -1,1 +1,1 @@
-https://mo97111.github.io/graphql/
+https://zone01normandie.org/git/cmorgan/GraphQL.git
