@@ -1,1 +1,1 @@
-https://<cmorgan>.github.io/<graphql>/
+https://cmorgan.github.io/graphql/
