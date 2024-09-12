@@ -1,1 +1,1 @@
-https://cmorgan.github.io/graphql/
+https://mo97111.github.io/graphql/
